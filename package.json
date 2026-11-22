@@ -1,6 +1,7 @@
 {
   "name": "tanstack_start_ts",
-  "private": true,
+  "author": "Sándor Sárvári <mail.timerider@gmail.com>",
+  "license": "MIT",
   "sideEffects": false,
   "type": "module",
   "packageManager": "npm@11.19.0",
